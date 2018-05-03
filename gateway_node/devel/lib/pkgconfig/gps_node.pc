@@ -1,0 +1,8 @@
+prefix=/home/bogdan/Projects/robot-wallet/gateway_node/devel
+
+Name: gps_node
+Description: Description of gps_node
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/bogdan/Projects/robot-wallet/gateway_node/devel/lib 
+Requires: 

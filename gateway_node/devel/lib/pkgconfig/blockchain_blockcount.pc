@@ -1,0 +1,8 @@
+prefix=/home/bogdan/Projects/robot-wallet/blockchain-node/devel
+
+Name: blockchain_blockcount
+Description: Description of blockchain_blockcount
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/bogdan/Projects/robot-wallet/blockchain-node/devel/lib 
+Requires: 
